@@ -1,1 +1,2 @@
-fsghdg
+#/bin/usr/python
+print "zzzzzzz"
