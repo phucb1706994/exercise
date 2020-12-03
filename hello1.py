@@ -1,2 +1,2 @@
 #/bin/usr/python
-print "zzzzzzzz"
+print "ok"
